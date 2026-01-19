@@ -15,8 +15,8 @@ It demonstrates how data visualization and storytelling can drive strategic mark
 ---
 
 ## Dashboard Introduction
+![Dashboard Introduction](dashboard_intro.png)
 
-![Dashboard Introduction](Dashboard Introduction.png)
 
 ---
 
@@ -75,7 +75,8 @@ It demonstrates how data visualization and storytelling can drive strategic mark
 - Instagram Ads recorded the highest CPL (₹85) with low conversion efficiency.  
 - Google Ads generated strong visibility but underperformed in ROI due to higher acquisition costs.
 
-![Dashboard Insight](Dashboard Insight.png)
+![Dashboard Insight](dashboard_insight_1.png)
+
 
 ---
 
@@ -84,7 +85,8 @@ It demonstrates how data visualization and storytelling can drive strategic mark
 - Significant drop-off observed from Clicks to Leads (16.5K → 7.5K).  
 - Average conversion rate across campaigns was 1.6%.
 
-![Dashboard Insight 2](Dashboard Insight 2.png)
+![Dashboard Insight 2](dashboard_insight_2.png)
+
 
 ---
 
@@ -108,7 +110,9 @@ It demonstrates how data visualization and storytelling can drive strategic mark
 
 ### Executive Summary
 
-![Dashboard Summary](Dashboard Summary.png)
+## Executive Summary
+![Dashboard Summary](dashboard_summary.png)
+
 
 ---
 

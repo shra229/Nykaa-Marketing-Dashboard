@@ -82,17 +82,6 @@ Campaigns Covered:
 - CTR vs Conversion Rate visualization  
 - Conversion funnel analysis  
 
-**Page 3: Executive Summary**  
-- Key findings and recommended actions  
-
----
-
-## Dashboard Preview
-
-*(Insert dashboard image link here after uploading)*  
-Example:
-![Nykaa Dashboard](dashboard_preview.png)
-
 ---
 
 ## Outcomes
@@ -109,6 +98,6 @@ Example:
 **Shraddha Shukla**  
 MBA in Business Analytics | Power BI Developer | Business Analyst  
 
-LinkedIn: https://www.linkedin.com/in/yourprofile  
+LinkedIn: https://www.linkedin.com/posts/shraddha-shukla-s922_marketinganalytics-powerbi-digitalmarketingstrategy-activity-7350905690766331904-FSFQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_CRTIB9ufq-XK8_zvnKc1ynvHT_JHj62A  
 GitHub: https://github.com/shra229  
-Email: your_email@example.com  
+Email: shraddhashukla09055@gmail.com  

@@ -1,6 +1,6 @@
 # Nykaa Marketing Campaign & Channel Performance Dashboard
 
-### Power BI | Marketing Analytics | ROI | CPL | CTR | Conversion Funnel
+Power BI | Marketing Analytics | ROI | CPL | CTR | Conversion Funnel
 
 ---
 
@@ -11,6 +11,12 @@ It focuses on analyzing critical marketing metrics such as ROI, CPL, CTR, and Co
 
 The dashboard simulates real campaign data to deliver insights on audience engagement, channel profitability, and conversion efficiency.  
 It demonstrates how data visualization and storytelling can drive strategic marketing decisions in a fast-moving e-commerce environment.
+
+---
+
+## Dashboard Introduction
+
+![Dashboard Introduction](Dashboard Introduction.png)
 
 ---
 
@@ -26,13 +32,20 @@ It demonstrates how data visualization and storytelling can drive strategic mark
 
 ## Dataset and Scope
 
-Dataset Type: Simulated marketing dataset  
-Data Size: ~50,000 records  
-Time Frame: January – December 2024  
-Channels Analyzed: Instagram Ads, Google Ads, Email Marketing, Influencers, Events  
-Key Metrics: ROI, CTR, CPL, CPA, Conversions, Spend, Revenue  
+**Dataset Type:** Simulated marketing dataset  
+**Data Size:** ~50,000 records  
+**Time Frame:** January – December 2024  
 
-Campaigns Covered:  
+**Channels Analyzed:**  
+- Instagram Ads  
+- Google Ads  
+- Email Marketing  
+- Influencers  
+- Events  
+
+**Key Metrics:** ROI, CTR, CPL, CPA, Conversions, Spend, Revenue  
+
+**Campaigns Covered:**  
 - Pink Friday Sale  
 - Diwali Dhamaka  
 - Summer Super Saver  
@@ -44,7 +57,7 @@ Campaigns Covered:
 ## Tools and Techniques
 
 | Category | Tools / Skills |
-|-----------|----------------|
+|--------|---------------|
 | Data Visualization | Power BI |
 | Data Cleaning & Transformation | Power Query, Excel |
 | KPI Development | DAX Formulas |
@@ -56,39 +69,53 @@ Campaigns Covered:
 
 ## Key Insights
 
-1. **Channel Performance**  
-   - Email Marketing achieved the highest ROI (3,472%) and lowest CPL (₹13).  
-   - Instagram Ads had the highest CPL (₹85) with low conversion efficiency.  
-   - Google Ads performed well on visibility but underperformed in ROI due to acquisition costs.
+### Channel Performance
 
-2. **Funnel Performance**  
-   - Significant drop-off from Clicks to Leads (16.5K → 7.5K).  
-   - Average conversion rate across campaigns was 1.6%.
+- Email Marketing achieved the highest ROI (3,472%) and the lowest CPL (₹13).  
+- Instagram Ads recorded the highest CPL (₹85) with low conversion efficiency.  
+- Google Ads generated strong visibility but underperformed in ROI due to higher acquisition costs.
 
-3. **Strategic Recommendations**  
-   - Increase budget allocation to Email and Event Marketing for better ROI.  
-   - Improve landing page performance to reduce post-click drop-offs.  
-   - Replicate successful campaign structures such as Pink Friday Sale.
+![Dashboard Insight](Dashboard Insight.png)
+
+---
+
+### Funnel Performance
+
+- Significant drop-off observed from Clicks to Leads (16.5K → 7.5K).  
+- Average conversion rate across campaigns was 1.6%.
+
+![Dashboard Insight 2](Dashboard Insight 2.png)
+
+---
+
+### Strategic Recommendations
+
+- Increase budget allocation to Email and Event Marketing to improve ROI.  
+- Optimize landing pages to reduce post-click conversion drop-offs.  
+- Replicate successful campaign structures such as Pink Friday Sale.
 
 ---
 
 ## Dashboard Structure
 
-**Page 1: Campaign & Channel Performance**  
+### Page 1: Campaign & Channel Performance
 - ROI, CPL, and CPA comparisons  
 - Spend and revenue summaries  
 
-**Page 2: Engagement & Funnel Efficiency**  
+### Page 2: Engagement & Funnel Efficiency
 - CTR vs Conversion Rate visualization  
 - Conversion funnel analysis  
 
----![Uploading Screenshot 2025-11-07 122359.png…]()
+### Executive Summary
 
+![Dashboard Summary](Dashboard Summary.png)
+
+---
 
 ## Outcomes
 
-- Developed a full-scale marketing analytics dashboard with Power BI.  
-- Converted raw campaign data into actionable insights for decision-making.  
+- Developed a full-scale marketing analytics dashboard using Power BI.  
+- Converted raw campaign data into actionable insights for business decision-making.  
 - Strengthened skills in data visualization, business analysis, and storytelling.  
 - Demonstrated data-driven marketing strategy development.
 
@@ -99,6 +126,11 @@ Campaigns Covered:
 **Shraddha Shukla**  
 MBA in Business Analytics | Power BI Developer | Business Analyst  
 
-LinkedIn: https://www.linkedin.com/posts/shraddha-shukla-s922_marketinganalytics-powerbi-digitalmarketingstrategy-activity-7350905690766331904-FSFQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_CRTIB9ufq-XK8_zvnKc1ynvHT_JHj62A  
-GitHub: https://github.com/shra229  
-Email: shraddhashukla09055@gmail.com  
+**LinkedIn:**  
+https://www.linkedin.com/posts/shraddha-shukla-s922_marketinganalytics-powerbi-digitalmarketingstrategy-activity-7350905690766331904-FSFQ  
+
+**GitHub:**  
+https://github.com/shra229  
+
+**Email:**  
+shraddhashukla09055@gmail.com

@@ -82,7 +82,8 @@ Campaigns Covered:
 - CTR vs Conversion Rate visualization  
 - Conversion funnel analysis  
 
----
+---![Uploading Screenshot 2025-11-07 122359.png…]()
+
 
 ## Outcomes
 
